@@ -1,4 +1,4 @@
-# MLAB (Mortgage Loan Approval ChatBot)
+# MLAB (Mortgage Loan Approval Bot)
 
 ## The goal is to build a chatbot using Streamlit to review all the loan applications and approve loans application based on the information a user inputs in the chat user interface. 
 ### Loan-based businesses can benefit by using this bot because it automates the loan review process and approves applications based on a set guideline per business risk aversion scale. Individuals can also benefit from using the chatbot as a planning tool.  The chatbot can help loan applicants know what credit score they should aim for, how much down payment, and project future payments.
